@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="hello">Hello World!</string>
+    <string name="app_name">AllShareSimple</string>
+    <string name="button1">Koniec2</string>
+    <string name="dialog_fire_missiles">szczelać?</string>
+    <string name="fire">yep</string>
+    <string name="cancel">nope</string>
+
+</resources>
